@@ -148,3 +148,29 @@ nav ul li {
   color: #fff;
   font-size: 2rem;
 }
+
+.card-choice-section {
+  background-color: #fceffb;
+  margin: 0 auto;
+  text-align: center;
+}
+.card-choice-title {
+  font-size: 7rem;
+  color: #333;
+  text-align: center;
+  font-weight: 500;
+  padding-top: 30px;
+}
+.card-choice-span {
+  color: #f637ec;
+}
+.card-choice-para {
+  color: #646064;
+  font-size: 1.4rem;
+  letter-spacing: 2px;
+  line-height: 1;
+}
+.card-choice-section > img {
+  max-width: 850px;
+  margin-top: -15px;
+}
