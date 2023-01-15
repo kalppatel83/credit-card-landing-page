@@ -256,3 +256,19 @@ nav ul li {
   border-radius: 25px;
   height: 15px;
 }
+footer {
+  max-width: 1400px;
+  margin: 8rem auto;
+  display: flex;
+  align-items: center;
+}
+
+footer ul {
+  display: flex;
+  list-style-type: none;
+  margin-left: 7rem;
+}
+footer ul li {
+  margin-left: 8rem;
+  font-size: 1.5rem;
+}
